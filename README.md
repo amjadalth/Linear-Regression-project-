@@ -1,4 +1,7 @@
 # Linear-Regression-project-
 
 
-This project is done by: Amjad Althinyyan and Shahad Alkaltham 
+## About the Repository
+
+This project is done during SDAIA Academy bootcamp of Data Science and AI, in collab with https://github.com/shhdSU
+
